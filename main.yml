@@ -1,0 +1,6 @@
+---
+- name: scalr ansible integration
+  hosts: all
+  remote_user: root
+  roles:
+    - samba-server

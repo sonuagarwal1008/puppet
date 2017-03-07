@@ -1,0 +1,4 @@
+#location /var/lib/hiera/global.yaml
+---
+time: '+5'
+massage: "Server is going down for upgrade. Please save your work ASAP"

@@ -1,0 +1,10 @@
+---
+:backend:
+   - yaml
+:hierarchy:
+#   - %{fqdn}
+ #  - %{envrionment}
+   - global
+
+:yaml:
+   :datadir: /var/lib/hiera
